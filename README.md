@@ -53,7 +53,7 @@ The company is looking at prospective properties to buy to enter the market. You
 
 
 ## Contact
-Created by @bishal-sharma - feel free to contact me!
+Created by [@bishal-sharma] - feel free to contact me!
 
 
 <!-- Optional -->
